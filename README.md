@@ -1,0 +1,1 @@
+# mobil-rusak-cnn
